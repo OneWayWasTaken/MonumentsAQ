@@ -1,4 +1,4 @@
-const CACHE = 'laquila360-v4';
+const CACHE = 'laquila360-v5';
 const ASSETS = [
   './',
   './index.html',
